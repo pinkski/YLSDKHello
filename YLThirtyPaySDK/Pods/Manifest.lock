@@ -1,0 +1,10 @@
+PODS:
+  - Weixin (1.6.2)
+
+DEPENDENCIES:
+  - Weixin (~> 1.6.2)
+
+SPEC CHECKSUMS:
+  Weixin: 032f4b1def7c7c3d7535809ba25107d5cdc9fccd
+
+COCOAPODS: 0.39.0

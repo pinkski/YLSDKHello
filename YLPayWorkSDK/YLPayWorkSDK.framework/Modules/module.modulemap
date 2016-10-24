@@ -1,0 +1,6 @@
+framework module YLPayWorkSDK {
+  umbrella header "YLPayWorkSDK.h"
+
+  export *
+  module * { export * }
+}
